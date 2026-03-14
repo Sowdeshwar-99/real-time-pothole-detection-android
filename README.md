@@ -40,7 +40,7 @@ The detection pipeline combines **image processing, object tracking, and machine
 
 ## Running the Application
 
-### Option 1 — Install APK (Recommended)
+### Option 1 — Install APK 
 
 1. Download **app-release.apk**
 2. Transfer it to an Android device
