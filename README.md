@@ -67,6 +67,8 @@ Open the project in Android Studio
 
 Build and run on an Android device.
 
+```
+
 Dataset and Model Development
 
 The notebook PotholeDetection.ipynb contains the experimentation and development steps for the pothole detection model including:
