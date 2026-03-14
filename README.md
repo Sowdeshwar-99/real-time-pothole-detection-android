@@ -8,7 +8,6 @@ The application processes live camera frames from a smartphone and detects potho
 The detection pipeline combines **image processing, object tracking, and machine learning techniques** to detect road surface anomalies.
 
 
-
 ## Features
 
 - Real-time pothole detection using smartphone camera
@@ -45,8 +44,6 @@ Bounding Box Visualization
 - Python
 - Jupyter Notebook
 
----
-
 ## Running the Application
 
 ### Option 1 — Install APK (Recommended)
@@ -58,8 +55,6 @@ Bounding Box Visualization
 5. Allow camera access
 
 The app will start detecting potholes in real time.
-
----
 
 ### Option 2 — Build from Source
 
