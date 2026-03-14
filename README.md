@@ -20,19 +20,13 @@ The detection pipeline combines **image processing, object tracking, and machine
 
 ## System Architecture
 
-Camera Input
-↓
-Frame Capture (Android Camera API)
-↓
-YUV → RGB Conversion
-↓
-Image Processing using OpenCV / Native C++
-↓
-Object Detection & Tracking
-↓
-Pothole Identification
-↓
-Bounding Box Visualization
+1. Camera Input  
+2. Frame Capture (Android Camera API)  
+3. YUV → RGB Conversion  
+4. Image Processing using OpenCV / Native C++  
+5. Object Detection & Tracking  
+6. Pothole Identification  
+7. Bounding Box Visualization
 
 ## Technologies Used
 
@@ -68,8 +62,6 @@ Open the project in Android Studio
 Build and run on an Android device.
 
 ```
-
-Dataset and Model Development
 
 The notebook PotholeDetection.ipynb contains the experimentation and development steps for the pothole detection model including:
 
