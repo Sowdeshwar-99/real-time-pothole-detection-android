@@ -92,3 +92,22 @@ Cloud-based reporting system
 Deep learning model integration
 
 Integration with municipal road monitoring systems
+
+## Designathon Project
+
+This project was developed during a competitive **Designathon**, where teams were challenged to build innovative technology solutions for real-world problems.
+
+Our team developed a **real-time pothole detection system using computer vision and an Android application** to assist with road infrastructure monitoring.
+
+The project was selected as a **winning solution**, which led to securing an **internship opportunity with Ericsson**.
+
+### Team Members
+- Sowdeshwar Survesha Kumar
+- Sudharshan Govindan
+
+## Project Collaboration
+
+This project was developed collaboratively as part of the Designathon.
+
+Original repository reference:  
+https://github.com/sudharshan1234/PotholeDetector
